@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">aaaaa</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">mmm</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-td"
         phase-name="pretrans"><source><bpt
